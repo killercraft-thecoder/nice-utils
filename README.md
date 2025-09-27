@@ -1,2 +1,2 @@
-# Fancy Arrays
+# Nice Utils
 TODO Make README.
