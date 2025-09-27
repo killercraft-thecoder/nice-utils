@@ -1,0 +1,11 @@
+{
+  "name": "any-dimension-array",
+  "version": "1.0.0",
+  "description": "A generic multidimensional array class with math and traversal support",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": ["array", "multidimensional", "matrix", "tensor", "typescript"]
+}
